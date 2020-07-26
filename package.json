@@ -9,5 +9,9 @@
     ]
   },
   "author": "Leandro Canabarro <leandrocanabarro@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@monorepo/eslint-config": "*",
+    "typescript": "^3.9.7"
+  }
 }
